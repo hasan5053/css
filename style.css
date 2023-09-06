@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.continer{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    width: 200px;
+    height: auto;
+    padding: 15px;
+
+}
+
+.mr{
+    margin: 10px 0px;
+    /*margin-left: 0px;*/
+    /*margin-right: 0px;*/
+    /*margin-top: 10px;*/
+    /*margin-bottom: 10px;*/
+}
+
+.imag{
+    width: 100%;
+    height: 100%;
+}
+.img-box{
+  width: 100%;
+    height: auto;
+}
+
+.orta{
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+}
+
+.pay-btn{
+    border:none;
+    border-radius: 10px;
+    background-color: rgb(89, 116, 250);
+    color: white;
+    width: 100px;
+    height: 15px;
+    font-size: 10px;
+}
+
+.orta-text{
+    color: #C0C0C0;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.yozuvlar{
+}
+
+.lorem{
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.order{
+    display: flex;
+    justify-content: center;
+}
+
+.oreder-btn{
+    height:25px;
+    width: 90%;
+    font-size: 10px;
+    font-weight: 500;
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+    color:#fff;
+}
+
+.past{
+    width: 100%;
+    /*height: 10px;*/
+    display: flex;
+    justify-content: space-between;
+}
+
+.past-btn{
+    width: 20px;
+    height: 20px;
+    border:1px solid green;
+    border: none;
+    background-color: #fff;
+}
